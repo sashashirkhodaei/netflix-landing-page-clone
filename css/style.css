@@ -184,3 +184,7 @@ label::after {
     position: absolute;
     right:20px;
 }
+
+input[type="radio"]{
+    display:none;
+}
